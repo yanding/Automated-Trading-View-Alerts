@@ -18,7 +18,7 @@ def webhook():
         if request.method == "POST":
             data = request.get_json()
             key = data["key"]
-            if key == 'JC8TwHCH86':
+            if key == 'x':
                 messageDat = data['message']
                 exchangeDat = data['exchange']
                 actionDat = data['action']
