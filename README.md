@@ -3,5 +3,5 @@ Get automated trading view alerts on telegram via Divergence for many indicator 
 
 <p align="center">
   <img src="GraphResult.jpg" width="600" title="TradingView">
-  <img src="Result.jpg" width="550" alt="Telegram">
+  <img src="Result.jpg" width="300" alt="Telegram">
 </p>
